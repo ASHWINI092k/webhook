@@ -14,7 +14,7 @@ public class add {
         int result = addNumbers(number1, number2);
 
         // Print the result
-	Sytem.out.println("Addition program.....")
+	System.out.println("Addition program.....");
         System.out.println("The sum of " + number1 + " and " + number2 + " is: " + result);
     }
 }
