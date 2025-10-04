@@ -9,6 +9,8 @@ public class add {
     public static void main(String[] args) {
         int number1 = 10;
         int number2 = 25;
+	int res = number1 * number2;
+	System.out.println("The product of " + number1 + " and " + number2 + " is: " + res);
 
         // Call the addNumbers function and store the result
         int result = addNumbers(number1, number2);
