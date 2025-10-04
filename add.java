@@ -1,4 +1,4 @@
-public class AdditionProgram {
+public class add {
 
     // This function takes two integers as input and returns their sum
     public static int addNumbers(int num1, int num2) {
